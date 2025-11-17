@@ -1,0 +1,1 @@
+# EchoAssist-Offline-PDF-Summarizer-and-Speech-Generation
